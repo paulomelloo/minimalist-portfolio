@@ -44,6 +44,16 @@ a{
     font-size: 1.5rem;
     padding: 10px;
 }
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 20px 0;
+    border: 3px solid white;
+}
+
 /* section 2 */
 .section-2{
     padding-top: 10vh;
